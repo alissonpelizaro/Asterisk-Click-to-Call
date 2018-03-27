@@ -4,7 +4,6 @@
 $port = '5038';
 // Replace with your username. You can find it in /etc/asterisk/manager.conf.
 // If unsure look for a user with "originate" permissions, or create one as
-// shown at http://www.voip-info.org/wiki/view/Asterisk+config+manager.conf.
 $username = "asterclic";
 // Replace with your password (refered to as "secret" in /etc/asterisk/manager.conf)
 $password = "aster123";
