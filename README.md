@@ -1,3 +1,4 @@
+# Asterisk Click-to-Call (PHP)
 Asterisk-Click-to-Call project is a simple and pure PHP script to send a click-to-call signal across Asterisk Server using any browser.
 
 ## Dependencies
