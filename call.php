@@ -2,7 +2,7 @@
 
   ## AUTHOR: Alisson Pelizaro (alissonpelizaro@hotmail.com)
 
-  // Replace with your port if not using the default.
+  // Replace with your server settings if not using the default.
   // If unsure check /etc/asterisk/manager.conf under [general];
   $ipServer = "172.0.0.1";
   $port = "5038";
