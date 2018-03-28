@@ -9,7 +9,6 @@
   $protocolServer = "tcp";
   // Replace with your username. You can find it in /etc/asterisk/manager.conf.
   // If unsure look for a user with "originate" permissions, or create one as
-  // shown at http://www.voip-info.org/wiki/view/Asterisk+config+manager.conf.
   $username = "user";
   // Replace with your password (refered to as "secret" in /etc/asterisk/manager.conf)
   $password = "secret";
