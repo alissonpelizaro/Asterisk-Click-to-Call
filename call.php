@@ -14,7 +14,7 @@
   $password = "secret";
   // Internal phone line to call from
   $internalPhoneline = "1003";
-  $ws = false; //Set 'true' if you use WebSocket transport
+  $ws = false; //Set 'true' if you use WebSocket protocol transport in your Asterisk Server
   // Context for outbound calls. See /etc/asterisk/extensions.conf if unsure.
   $context = '1-GRam-Grupo_1';
 
