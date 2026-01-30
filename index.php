@@ -1,1 +1,2 @@
-<?php header('Location: call.php'); ?>
+<?php header('Location: Example.php'); ?>
+
